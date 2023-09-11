@@ -152,7 +152,14 @@
                 "file": "Demo.md"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "d4d8d05f66d7359f",
+        "type": "tabs",
+        "children": [
           {
             "id": "30c3dae52fde5c1c",
             "type": "leaf",
@@ -161,8 +168,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,11 +186,11 @@
   },
   "active": "56a492507df8ee6c",
   "lastOpenFiles": [
+    "Demo.md",
     "README.md",
     "Obsidian_BackUp/README.md",
     "Obsidian_BackUp",
     "Note3.md",
-    "Demo.md",
     "Note2.md",
     "未命名.canvas"
   ]
